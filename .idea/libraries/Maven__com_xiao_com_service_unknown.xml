@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.xiao:com-service:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xiao/com-service/unknown/com-service-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xiao/com-service/unknown/com-service-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/xiao/com-service/unknown/com-service-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/com-common/com-common.iml" filepath="$PROJECT_DIR$/com-common/com-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-mapper/com-mapper.iml" filepath="$PROJECT_DIR$/com-mapper/com-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-service/com-service.iml" filepath="$PROJECT_DIR$/com-service/com-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com-web/com-web.iml" filepath="$PROJECT_DIR$/com-web/com-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast-springboot.iml" filepath="$PROJECT_DIR$/itcast-springboot.iml" />
+    </modules>
+  </component>
+</project>
